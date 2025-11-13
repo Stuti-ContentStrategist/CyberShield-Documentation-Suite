@@ -42,12 +42,12 @@ This documentation suite was designed as part of a **technical writing and conte
 
 ### 🧩 Roles & How to Use
 
-| **Audience**                 | **Start With**                                                                                                              |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **End Users / IT Teams**     | 📘 _User Guide_ or 💡  _Knowledge Base_                                                                                     |
-| **Developers / Integrators** | 🧩 _SDK Documentation_ and [**📒**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) _API Reference_ |
-| **Managers / Product Teams** | [📙](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Z935hdhlRtsmGr5SnVj1/) _Release Notes_ and 💼 _Marketing Portfolio_   |
-| **Contributors / Editors**   | 🧭 _Contributor Guide_ and 🧰 _Style Guide_                                                                                 |
+| **Audience**                 | **Start With**                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **End Users / IT Teams**     | [📘 _User Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Xuaz498uadlzVzXcXu1r/) or [💡  _Knowledge Base_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/U82Dyw74to5o70c6zb0E/)                                                                                     |
+| **Developers / Integrators** | [🧩 _SDK Documentation_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Jh7uJN5ZgBV4FyWQnmId/) and [**📒**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) [_API Reference_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) |
+| **Managers / Product Teams** | [📙 _Release Notes_ ](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Z935hdhlRtsmGr5SnVj1/)and [💼 _Marketing Portfolio_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/MMJTF2hNzQn82Wt9wDxg/)                                                                             |
+| **Contributors / Editors**   | [🧭 _Contributor Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/JZ4c0089O5qzMCYt8lqx/) and [🧰 _Style Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/r3Z9d8rYEYECO57diW7j/)                                                                                 |
 
 > 💬 **Tip:** Each guide can be read independently — but together, they form a complete view of CyberShield’s ecosystem.
 
