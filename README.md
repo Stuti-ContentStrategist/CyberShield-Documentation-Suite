@@ -2,11 +2,11 @@
 
 ### 🧱 Overview
 
-Welcome to the **CyberShield Security Suite Documentation**, your central hub for everything related to CyberShield’s security, monitoring, and integration tools.
+Welcome to the **CyberShield Security Suite Documentation** — your central hub for all security, monitoring, and integration resources.
 
-Whether you’re an end user configuring your first scan, a support agent troubleshooting customer issues, or a developer integrating our SDK and APIs — this documentation suite provides everything you need to get started, explore, and master CyberShield.
+Whether you’re setting up your first scan, resolving customer issues, or building with our SDK and APIs, this documentation gives you everything you need to get started, explore deeper, and master CyberShield.
 
-💡 **Tip:** Use the navigation panel to jump directly to the guide or reference section that best matches your role.
+💡 **Tip:** Use the navigation panel to quickly jump to the guides and reference sections tailored to your role.
 
 ***
 
@@ -44,7 +44,7 @@ This documentation suite was designed as part of a **technical writing and conte
 
 | **Audience**                 | **Start With**                                                                                                                                                                                                                                                                  |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **End Users / IT Teams**     | [📘 _User Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Xuaz498uadlzVzXcXu1r/) or [💡  _Knowledge Base_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/U82Dyw74to5o70c6zb0E/)                                                                                     |
+| **End Users**                | [📘 _User Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Xuaz498uadlzVzXcXu1r/) or [💡  _Knowledge Base_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/U82Dyw74to5o70c6zb0E/)                                                                                     |
 | **Developers / Integrators** | [🧩 _SDK Documentation_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Jh7uJN5ZgBV4FyWQnmId/) and [**📒**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) [_API Reference_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) |
 | **Managers / Product Teams** | [📙 _Release Notes_ ](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Z935hdhlRtsmGr5SnVj1/)and [💼 _Marketing Portfolio_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/MMJTF2hNzQn82Wt9wDxg/)                                                                             |
 | **Contributors / Editors**   | [🧭 _Contributor Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/JZ4c0089O5qzMCYt8lqx/) and [🧰 _Style Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/r3Z9d8rYEYECO57diW7j/)                                                                                 |
@@ -59,7 +59,7 @@ This documentation is written and maintained by **Stuti**, a _Technical Writer a
 
 Her work bridges **technical accuracy** and **strategic communication**, helping readers — from end users to developers — understand, adopt, and engage with complex tools effortlessly.
 
-#### **Connect with the Author:** 
+#### **Connect with the Author:**
 
 [💼 LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
 [💌 Email](mailto:stutisanghvi7@gmail.in)\
