@@ -42,12 +42,12 @@ This documentation suite was designed as part of a **technical writing and conte
 
 ### 🧩 Roles & How to Use
 
-| **Audience**                 | **Start With**                                                                                                                                                                                                                                                                  |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **End Users**                | [📘 _User Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Xuaz498uadlzVzXcXu1r/) or [💡  _Knowledge Base_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/U82Dyw74to5o70c6zb0E/)                                                                                     |
-| **Developers / Integrators** | [🧩 _SDK Documentation_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Jh7uJN5ZgBV4FyWQnmId/) and [**📒**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) [_API Reference_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) |
-| **Managers / Product Teams** | [📙 _Release Notes_ ](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Z935hdhlRtsmGr5SnVj1/)and [💼 _Marketing Portfolio_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/MMJTF2hNzQn82Wt9wDxg/)                                                                             |
-| **Contributors / Editors**   | [🧭 _Contributor Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/JZ4c0089O5qzMCYt8lqx/) and [🧰 _Style Guide_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/r3Z9d8rYEYECO57diW7j/)                                                                                 |
+| **Audience**                 | **Start With**                                                                                                                                                                                                                                                                          |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **End Users**                | [📘 _**User Guide**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Xuaz498uadlzVzXcXu1r/) or [💡  _**Knowledge Base**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/U82Dyw74to5o70c6zb0E/)                                                                                     |
+| **Developers / Integrators** | [🧩 _**SDK Documentation**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Jh7uJN5ZgBV4FyWQnmId/) and [**📒**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) [_**API Reference**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/DqlTNL6eyzhuJxfQU9Cp/) |
+| **Managers / Product Teams** | [📙 _**Release Notes**_ ](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Z935hdhlRtsmGr5SnVj1/)and [💼 _**Marketing Portfolio**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/MMJTF2hNzQn82Wt9wDxg/)                                                                             |
+| **Contributors / Editors**   | [🧭 _**Contributor Guide**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/JZ4c0089O5qzMCYt8lqx/) and [🧰 _**Style Guide**_](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/r3Z9d8rYEYECO57diW7j/)                                                                                 |
 
 > 💬 **Tip:** Each guide can be read independently — but together, they form a complete view of CyberShield’s ecosystem.
 
@@ -61,9 +61,9 @@ Her work bridges **technical accuracy** and **strategic communication**, helping
 
 #### **Connect with the Author:**
 
-[💼 LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
-[💌 Email](mailto:stutisanghvi7@gmail.in)\
-[🌐 Portfolio (via Notion)](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
-[🔗 GitHub](https://github.com/Stuti-ContentStrategist)
+[**💼 LinkedIn**](https://linkedin.com/in/stuti-sanghvi)\
+[**💌 Email**](mailto:stutisanghvi7@gmail.in)\
+[**🌐 Portfolio (via Notion)**](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
+[**🔗 GitHub**](https://github.com/Stuti-ContentStrategist)
 
-Learn more → [About the Author](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
+Learn more → [**About the Author**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
