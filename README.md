@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/
 ---
 
-# 📒 CyberShield Security Suite - User Guide
+# CyberShield Security Suite - User Guide
 
 ## Overview
 
@@ -24,7 +24,7 @@ Built with enterprise-grade security and user-friendly controls, CyberShield emp
 | [**Troubleshooting**](troubleshooting.md)             | Identify and resolve common issues to maintain smooth performance.            |
 | [**FAQs**](frequently-asked-questions-faqs.md)        | Find quick answers to common setup and usage questions.                       |
 
-💡 **Tip:** Use the left navigation panel to jump directly to the task or module you want to explore.
+> 💡 **Tip:** Use the left navigation panel to jump directly to the task or module you want to explore.
 
 ***
 

@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/navigation-and-ui-tour
 ---
 
-# 🧭 Navigation & UI Tour
+# Navigation & UI Tour
 
 Once you’ve installed and activated **CyberShield Security Suite**, the next step is to familiarize yourself with its interface. CyberShield’s dashboard is designed to give you a quick overview of your system’s protection status and easy access to all core security modules.
 

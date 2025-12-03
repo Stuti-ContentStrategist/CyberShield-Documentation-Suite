@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/installation-and-setup
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 This section guides you through downloading, installing, and activating **CyberShield Security Suite** on your device.
 

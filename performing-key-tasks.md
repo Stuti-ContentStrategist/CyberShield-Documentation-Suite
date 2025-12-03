@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/performing-key-tasks
 ---
 
-# 🧾 Performing Key Tasks
+# Performing Key Tasks
 
 This section walks you through the most common actions you’ll perform in **CyberShield Security Suite**. Each task includes clear, step-by-step instructions so you can accomplish it quickly and confidently.
 
@@ -14,7 +14,7 @@ This section walks you through the most common actions you’ll perform in **Cyb
 
 Running a full system scan checks your device for viruses, malware, and suspicious files.
 
-1. From the left sidebar, click **🦠 Antivirus**.
+1. From the left sidebar, click **Antivirus**.
 2. In the **Scan Options** panel, select **Full Scan**.
 3. Click **Start Scan**.
 4. Wait for the scan to complete — progress is shown on the screen.
@@ -48,7 +48,7 @@ To ensure ongoing protection, set up regular automatic scans.
 
 CyberShield automatically records threat and scan data in detailed reports.
 
-1. From the sidebar, select **📊 Reports**.
+1. From the sidebar, select **Reports**.
 2. Choose the report type you want to view — _Threat Summary_, _Scan History_, or _Compliance Report_.
 3. Use the **Date Filter** to narrow results.
 4. To export, click **Export → PDF** or **Export → CSV**.
@@ -64,7 +64,7 @@ CyberShield automatically records threat and scan data in detailed reports.
 
 Control which applications and services can access your network.
 
-1. Navigate to **🧱 Firewall → Rules**.
+1. Navigate to **Firewall → Rules**.
 2. Click **Add New Rule**.
 3. Choose **Allow** or **Block** for specific applications or ports.
 4. Assign a name to your rule and click **Save**.
@@ -78,7 +78,7 @@ Control which applications and services can access your network.
 
 Keeping your virus definitions up-to-date ensures protection against new threats.
 
-1. Click **⚙️ Settings → Updates**.
+1. Click **Settings → Updates**.
 2. Click **Check for Updates**.
 3. Wait for CyberShield to connect to the update server.
 4.  Once complete, you’ll see:

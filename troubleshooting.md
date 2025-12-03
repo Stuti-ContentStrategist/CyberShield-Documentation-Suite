@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/troubleshooting
 ---
 
-# 🧰 Troubleshooting
+# Troubleshooting
 
 Even well-configured systems may occasionally face issues. This section helps you identify and resolve common problems in **CyberShield Security Suite**.
 

@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/frequently-asked-questions-faqs
 ---
 
-# ❓ Frequently Asked Questions (FAQs)
+# Frequently Asked Questions (FAQs)
 
 This section answers some of the most common questions users have about **CyberShield Security Suite**.
 
