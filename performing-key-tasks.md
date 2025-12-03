@@ -21,7 +21,7 @@ Running a full system scan checks your device for viruses, malware, and suspicio
 5. Review the scan results under **Summary Report**.
 6. Click **Resolve All** to remove or quarantine any detected threats.
 
-💡 _Tip:_ You can continue working while CyberShield scans in the background.
+> 💡 **Tip**_:_ You can continue working while CyberShield scans in the background.
 
 <figure><img src=".gitbook/assets/CyberShield Full Scan in Process.png" alt="CyberShield Antivirus module displaying a full system scan in progress with elapsed time shown and a Cancel button available."><figcaption><p><em>Figure 4: Antivirus module performing a full system scan.</em></p></figcaption></figure>
 
