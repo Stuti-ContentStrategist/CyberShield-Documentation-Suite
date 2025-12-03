@@ -6,7 +6,7 @@ Welcome to the **CyberShield Security Suite Documentation** — your central hub
 
 Whether you’re setting up your first scan, resolving customer issues, or building with our SDK and APIs, this documentation gives you everything you need to get started, explore deeper, and master CyberShield.
 
-**Tip:** Use the navigation panel to quickly jump to the guides and reference sections tailored to your role.
+💡 **Tip:** Use the navigation panel to quickly jump to the guides and reference sections tailored to your role.
 
 ***
 
