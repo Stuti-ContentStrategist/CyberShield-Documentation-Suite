@@ -1,69 +1,85 @@
-# CyberShield Documentation Suite
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/cx8qBui3iXuxHiHJzaUV/
+---
 
-### Overview
+# 📒 CyberShield Security Suite - User Guide
 
-Welcome to the **CyberShield Security Suite Documentation** — your central hub for all security, monitoring, and integration resources.
+## Overview
 
-Whether you’re setting up your first scan, resolving customer issues, or building with our SDK and APIs, this documentation gives you everything you need to get started, explore deeper, and master CyberShield.
+CyberShield Security Suite is a comprehensive cybersecurity solution designed to protect your organization’s data, devices, and networks from ever-evolving digital threats.
 
-💡 **Tip:** Use the navigation panel to quickly jump to the guides and reference sections tailored to your role.
+Built with enterprise-grade security and user-friendly controls, CyberShield empowers both IT teams and business users to monitor, detect, and respond to potential risks in real time.
 
 ***
 
 ### Explore the Documentation
 
-| **Section**             | **Description**                                                                                                       |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **User Guide**          | Learn how to install, navigate, and perform key tasks with CyberShield. Includes troubleshooting and FAQs.            |
-| **Knowledge Base**      | Find quick answers to common questions, from activation issues to report exports.                                     |
-| **SDK Documentation**   | Integrate CyberShield into your applications using the developer SDK. Covers setup, configuration, and code examples. |
-| **API Reference**       | Access REST API details including authentication, endpoints, and sample requests/responses.                           |
-| **Release Notes**       | Stay informed about the latest versions, updates, and changelog details.                                              |
-| **Style Guide**         | Learn the standards behind our documentation tone, visuals, and formatting.                                           |
-| **Contributor Guide**   | For writers, developers, and collaborators who wish to contribute to or modify CyberShield docs.                      |
-| **Marketing Portfolio** | Explore CyberShield’s content strategy, product messaging, and campaign examples.                                     |
-| **About the Author**    | Learn more about Stuti, the creator of this documentation suite, her expertise, and contact details.                  |
-| **Disclaimer**          | Review the terms, legal notices, and limitations of liability for the CyberShield suite.                              |
+| **Section**                                           | **Description**                                                               |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [**Installation & Setup**](installation-and-setup.md) | Learn how to install, activate, and configure CyberShield for the first time. |
+| [**Navigation & UI Tour**](navigation-and-ui-tour.md) | Familiarize yourself with the interface, navigation, and monitoring tools.    |
+| [**Performing Key Tasks**](performing-key-tasks.md)   | Run scans, generate reports, and manage your system’s protection.             |
+| [**Troubleshooting**](troubleshooting.md)             | Identify and resolve common issues to maintain smooth performance.            |
+| [**FAQs**](frequently-asked-questions-faqs.md)        | Find quick answers to common setup and usage questions.                       |
+
+💡 **Tip:** Use the left navigation panel to jump directly to the task or module you want to explore.
 
 ***
 
-### Purpose of This Suite
+### Purpose of This Guide
 
-This documentation suite was designed as part of a **technical writing and content strategy portfolio** to demonstrate expertise in:
+This user guide will help you:
 
-* Structuring **multi-audience documentation** for users, developers, and decision-makers.
-* Applying **consistent editorial standards** across both technical and marketing assets.
-* Designing **role-specific navigation systems** for clarity and discoverability.
-* Creating documentation that balances **accuracy, tone, and engagement.**
-
-> **Info:** The CyberShield suite combines _technical depth_ and _marketing clarity_, showcasing the writer’s ability to communicate complex concepts to multiple audiences.
+* Install and configure CyberShield on your system.
+* Navigate through its intuitive dashboard and modules.
+* Perform essential security tasks such as scans and report generation.
+* Troubleshoot common issues and access support resources.
 
 ***
 
-### Roles & How to Use
+### Who Should Use CyberShield
 
-| **Audience**                 | **Start With**                                    |
-| ---------------------------- | ------------------------------------------------- |
-| **End Users**                | **User Guide**\_ or **Knowledge Base**\_          |
-| **Developers / Integrators** | **SDK Documentation**\_ and _**API Reference**_   |
-| **Managers / Product Teams** | **Release Notes**\_ and **Marketing Portfolio**\_ |
-| **Contributors / Editors**   | **Contributor Guide**\_ and **Style Guide**\_     |
+CyberShield is ideal for:
 
-> **Tip:** Each guide can be read independently — but together, they form a complete view of CyberShield’s ecosystem.
+* **IT Administrators** — managing installations, updates, and configurations.
+* **Security Analysts** — monitoring threats, reviewing reports, and ensuring compliance.
+* **Business Users** — maintaining secure data handling and transfer across systems.
 
 ***
 
-### About the Author
+### Key Features
 
-**Stuti Sanghvi** is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.
+| **Feature**                     | **Description**                                                                               |
+| ------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Real-Time Threat Detection**  | Instantly identifies malware, ransomware, and phishing attempts using AI-assisted monitoring. |
+| **Secure File Transfer**        | Encrypts files and ensures safe data sharing within or outside your network.                  |
+| **Automated Incident Response** | Detects and neutralizes threats without manual intervention.                                  |
+| **Centralized Dashboard**       | A unified interface for viewing system status, reports, and logs.                             |
+| **Customizable Scans**          | Choose between quick, full, or scheduled scans based on your security needs.                  |
 
-Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease.
+***
+
+### Why Choose CyberShield
+
+* Designed for **simplicity** — no complex setup required.
+* Backed by **real-time intelligence** — powered by AI-driven threat analysis.
+* Built for **scalability** — suitable for individuals, SMBs, and enterprise environments.
+
+***
+
+#### About the Author
+
+Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.
+
+Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She helps **users understand features quickly and carry out tasks easily.**
 
 #### **Connect with the Author:**
 
-[**LinkedIn**](https://linkedin.com/in/stuti-sanghvi)\
-[**Email**](mailto:stutisanghvi7@gmail.in)\
-[**Portfolio (via Notion)**](https://tidal-feather-771.notion.site/Stuti-Sanghvi-Portfolio-29cf34655bbd809589e7d360b8e98ed1)\
-[**GitHub**](https://github.com/Stuti-ContentStrategist)
+[**💼 LinkedIn**](https://linkedin.com/in/stuti-sanghvi)\
+[**💌 Email**](mailto:stutisanghvi7@gmail.in)\
+[**🌐 Portfolio (via Notion)**](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
+[**🔗 GitHub**](https://github.com/Stuti-ContentStrategist)
 
 Learn more → **About the Author**
