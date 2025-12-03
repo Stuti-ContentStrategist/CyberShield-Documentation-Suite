@@ -89,4 +89,4 @@ You now know how to:
 * [Perform key security tasks](performing-key-tasks.md)
 * [Troubleshoot](troubleshooting.md) issues and[ find support](frequently-asked-questions-faqs.md) when needed
 
-For continuous updates, tutorials, and best practices, visit the **CyberShield Knowledge Base**.
+For continuous updates, tutorials, and best practices, visit the [**CyberShield Knowledge Base**](https://app.gitbook.com/o/SxHNjM53o1ERQTNaTYLB/s/4DrWEAeXqgE1w4gMk9aV/).
